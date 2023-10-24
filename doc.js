@@ -6,6 +6,6 @@
  * @return ritorna sempre 0
  */
 function documentazione(uno, due){
-    //file modificato
+    //nuova modifica
     return 0;
 }
